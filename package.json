@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "ticketing_system",
   "version": "0.1.0",
@@ -29,3 +30,36 @@
     "tailwindcss": "^3.3.0"
   }
 }
+=======
+{
+  "name": "ticketing_system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@rainbow-me/rainbowkit": "^2.0.5",
+    "@tanstack/react-query": "^5.28.14",
+    "axios": "^1.6.8",
+    "ethers": "^5.7.2",
+    "next": "^14.1.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-loader-spinner": "^6.1.6",
+    "react-responsive-carousel": "^3.2.23",
+    "slick-carousel": "^1.8.1",
+    "viem": "^2.9.31",
+    "wagmi": "^2.5.18",
+    "web3": "^4.7.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
+>>>>>>> 4c2991abc12a5c7fba5c29a4648be617257e9d51
