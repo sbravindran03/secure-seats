@@ -1,0 +1,5 @@
+{
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js",
+  "/Eventform/page": "app/Eventform/page.js"
+}
